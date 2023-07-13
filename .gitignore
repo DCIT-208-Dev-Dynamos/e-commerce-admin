@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+.pnp.cjs
+.pnp.loader.mjs
 
 # testing
 /coverage
@@ -36,3 +38,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .yarn
+install-state.gz
